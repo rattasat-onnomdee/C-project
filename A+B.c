@@ -15,5 +15,4 @@ int main ()
 
     result = A + B;
     printf("result : %d", result);
-    printf("AHA KUY");
 }
