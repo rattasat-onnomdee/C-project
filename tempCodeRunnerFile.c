@@ -1,4 +1,2 @@
-if(arr[i] == ' ')
-        {
-            result++;
-        }
+
+    printf("There are %d remaining pieces\n",c%p);
